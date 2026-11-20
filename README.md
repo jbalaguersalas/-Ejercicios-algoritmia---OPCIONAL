@@ -12,9 +12,3 @@ Cuatro ejercicios opcionales de lógica del bootcamp Full Stack de The Bridge. C
 ## Cómo ejecutarlo
 
 Abre `index.html` en el navegador y abre la consola con F12. Los ejercicios 2 y 3 usan `prompt`, así que el navegador te pedirá los datos en ventanas emergentes antes de enseñar los resultados.
-
-## Qué he aprendido
-
-- El orden de los `if` importa. En el bisiesto compruebo primero `% 400`, luego `% 100` y al final `% 4`. Si empiezo por el 4, el año 1900 saldría bisiesto y no lo es.
-- Un bucle `while` me sirve cuando no sé cuántas vueltas va a dar. En el ejercicio 2 sigo pidiendo números hasta que llega un 0.
-- `prompt` devuelve texto. Uso `parseInt` para convertirlo en número antes de compararlo u ordenarlo.
